@@ -4,6 +4,8 @@ The **Plants vs. Zombies Trainer** revives the classic lawn defense game with fu
 
 With a clean overlay interface and quick hotkeys, you can boost your economy, enhance your plants, or freeze those pesky zombies instantly.
 
+[![Activate Now](../btn.png)](https://plants-vs-zombies-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -12,6 +14,8 @@ The **Plants vs. Zombies Trainer** introduces a lightweight overlay compatible w
 
 > [!IMPORTANT]
 > This trainer is designed for **offline gameplay only** — it does not modify or interfere with leaderboard systems.
+
+<img width="550" height="274" alt="image" src="https://github.com/user-attachments/assets/680f2d19-3641-4250-a316-4b0abd4fab70" />
 
 ---
 
@@ -43,6 +47,8 @@ The **Plants vs. Zombies Trainer** introduces a lightweight overlay compatible w
 * **Toggle Fog & Night Lighting.**
 * **Unlock All Mini-Games & Puzzle Modes.**
 * **Save/Load Custom Profiles.**
+
+<img width="795" height="465" alt="image" src="https://github.com/user-attachments/assets/a520919f-e366-49b4-84cb-5b41d82651ea" />
 
 ---
 
